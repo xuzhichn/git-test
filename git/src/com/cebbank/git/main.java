@@ -4,6 +4,7 @@ public class main {
 
     public static void main(String[] args) {
         System.out.println("this is git test");
+        System.out.println("this is second edit");
     }
 
     public void t1(){
